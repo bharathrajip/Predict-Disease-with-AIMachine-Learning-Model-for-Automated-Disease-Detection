@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Model & Scaler load பண்ணுறது
-model = joblib.load("best_rf_model.pkl")
+model = joblib.load("best_rf_model_resaved.pkl")
 scaler = joblib.load("scaler.pkl")
 
 st.title("Disease Prediction App")
