@@ -1,0 +1,1 @@
+# Predict-Disease-with-AIMachine-Learning-Model-for-Automated-Disease-Detection
